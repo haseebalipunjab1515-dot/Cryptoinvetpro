@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "134601195394",
+    "project_id": "cryptoinvetpro",
+    "storage_bucket": "cryptoinvetpro.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134601195394:android:956fcad95a9b323168d99b",
+        "android_client_info": {
+          "package_name": "Cryptoinvetpro.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqpACwnKjW_4j3W-bxt0O0H28Vi-iIgEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
